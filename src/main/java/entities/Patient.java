@@ -1,5 +1,6 @@
 package entities;
-
+/**Representing the patient entity
+ * */
 public class Patient extends User {
 
     private Condition condition;
